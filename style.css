@@ -1,0 +1,9 @@
+body{
+    background-color: limegreen;
+    color: firebrick;
+}
+
+#identify_button, #capture_button{
+    background-color: fuchsia;
+    color: navy;
+}
